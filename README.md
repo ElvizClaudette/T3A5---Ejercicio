@@ -13,8 +13,8 @@ datos son erróneos.
 2. Consultar estado de cuenta
 3. Retirar efectivo
 4. Otras opciones
-    a) Seguros
-    b) Créditos
+    a- Seguros
+    b- Créditos
 5. Salir
 
 ## Etapa 2. Diseño de la solución
