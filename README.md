@@ -12,7 +12,7 @@ datos son erróneos.
 1. Consultar saldo
 2. Consultar estado de cuenta
 3. Retirar efectivo
-4. Otras opciones
+4. Otras opciones:
     - Seguros
     - Créditos
 5. Salir
