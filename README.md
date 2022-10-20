@@ -45,4 +45,4 @@ datos son erróneos.
 
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
-
+![](https://github.com/ElvizClaudette/T3A5---Ejercicio/blob/main/T3A5.png)
