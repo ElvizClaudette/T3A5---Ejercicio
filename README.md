@@ -42,3 +42,7 @@ datos son erróneos.
 | TRASNFERENCIA                                                 |
 +---------------------------------------------------------------+
 ~~~
+
+## Etapa 3. Diseño de la solución
+Diagrama de la clase
+
